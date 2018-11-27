@@ -1,4 +1,4 @@
-# Monero
+# A fork of xmr to create a nation within a nation...to restore Ethics and Morality and for God and Country.
 
 Copyright (c) 2014-2018 The Monero Project.   
 Portions Copyright (c) 2012-2013 The Cryptonote developers.
